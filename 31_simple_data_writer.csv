@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1491985188388,1556,yahoo.com,200,OK,Thread Group 1-1,text,true,,387408,550,5,5,141,0,77
+1491985188590,1561,yahoo.com,200,OK,Thread Group 1-2,text,true,,387567,550,5,5,125,0,60
+1491985188789,1613,yahoo.com,200,OK,Thread Group 1-3,text,true,,387564,550,5,5,127,0,63
+1491985188990,1754,yahoo.com,200,OK,Thread Group 1-4,text,true,,387565,550,5,5,128,0,61
+1491985189190,1865,yahoo.com,200,OK,Thread Group 1-5,text,true,,387441,550,5,5,134,0,61
+1491985190151,1194,gmail.com,200,OK,Thread Group 1-2,text,true,,72568,885,5,5,112,0,53
+1491985189944,1403,gmail.com,200,OK,Thread Group 1-1,text,true,,72492,885,4,4,223,0,168
+1491985190403,1014,gmail.com,200,OK,Thread Group 1-3,text,true,,74324,885,3,3,148,0,49
+1491985190744,849,gmail.com,200,OK,Thread Group 1-4,text,true,,72552,885,2,2,82,0,41
+1491985191055,730,gmail.com,200,OK,Thread Group 1-5,text,true,,72544,885,1,1,41,0,17
